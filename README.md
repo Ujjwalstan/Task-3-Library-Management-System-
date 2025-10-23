@@ -8,9 +8,11 @@
 ​Encapsulation: Data (like title, isIssued) is kept private and managed via public methods.
 ​Composition: The Library has a list of Book objects, and the User has a list of issued Book objects.
 
-​How to Run
+​How to Run -
 ​Compile: javac LibraryManagementSystem.java
+
 ​Run: java LibraryManagementSystem
+
 ==== Library Menu ====
 1. Show all books
 2. Issue a book
